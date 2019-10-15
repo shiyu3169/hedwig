@@ -1,0 +1,102 @@
+[
+  {
+    "name": "杯子蛋糕",
+    "category": "menu",
+    "recipes": [
+      [
+        {
+          "name": "daisy",
+          "amount": "4"
+        },
+        {
+          "name": "rose",
+          "amount": "4"
+        },
+        {
+          "name": "bluebell",
+          "amount": "3"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "鲷鱼烧",
+    "category": "menu",
+    "recipes": [
+      [
+        {
+          "name": "daisy",
+          "amount": "4"
+        },
+        {
+          "name": "daisy",
+          "amount": "4"
+        },
+        {
+          "name": "iron kettle",
+          "amount": "N/A"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "橙汁",
+    "category": "menu",
+    "recipes": [
+      [
+        {
+          "name": "rose",
+          "amount": "4"
+        },
+        {
+          "name": "white rose",
+          "amount": "1"
+        },
+        {
+          "name": "seed",
+          "amount": "N/A"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "草莓松饼",
+    "category": "menu",
+    "recipes": [
+      [
+        {
+          "name": "sunflower",
+          "amount": "4"
+        },
+        {
+          "name": "daisy",
+          "amount": "4"
+        },
+        {
+          "name": "rose",
+          "amount": "4"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "草莓松饼",
+    "category": "menu",
+    "recipes": [
+      [
+        {
+          "name": "sunflower",
+          "amount": "4"
+        },
+        {
+          "name": "daisy",
+          "amount": "4"
+        },
+        {
+          "name": "rose",
+          "amount": "4"
+        }
+      ]
+    ]
+  }
+]
